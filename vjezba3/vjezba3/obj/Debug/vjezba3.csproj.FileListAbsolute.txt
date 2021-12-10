@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\vjezba3\vjezba3\obj\Debug\vjezba3.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\vjezba3\vjezba3\obj\Debug\vjezba3.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\vjezba3\vjezba3\bin\Debug\vjezba3.exe.config
+C:\Users\denim\source\repos\vjezba3\vjezba3\bin\Debug\vjezba3.exe
+C:\Users\denim\source\repos\vjezba3\vjezba3\bin\Debug\vjezba3.pdb
+C:\Users\denim\source\repos\vjezba3\vjezba3\obj\Debug\vjezba3.exe
+C:\Users\denim\source\repos\vjezba3\vjezba3\obj\Debug\vjezba3.pdb
